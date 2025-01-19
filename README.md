@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wingman Coding Challenge
 
-## Getting Started
+Thank you for reviewing my submission for the Wingman coding challenge. Below, you'll find details about the project, including setup instructions, features, and live deployment.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## About the Developer
+👋 Hi, I’m **Maruf Sherefa**, a passionate frontend developer with a strong focus on creating smooth and user-friendly applications. This submission reflects my commitment to delivering clean, maintainable, and scalable solutions.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Live Demo
+🌐 Check out the live application hosted on Vercel: [Live Demo](https://wingman-challenge-xi.vercel.app/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## Project Overview
+This project was developed as part of the Wingman coding challenge and demonstrates my ability to:
+- Implement modern web development practices using **Next.js**.
+- Ensure responsive, accessible, and visually appealing UI designs.
+- Write clean, modular, and reusable code following best practices.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Features
+- **Responsive Design**: Optimized for both desktop and mobile users.
+- **Dynamic Functionality**: Implements features according to the challenge requirements.
+- **Custom Styling**: Styled using [your chosen library/framework, e.g., Tailwind CSS, Shadcn, etc.].
+- **Deployed Live**: Hosted using Vercel for easy access and performance optimization.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Technologies Used
+- **Framework**: Next.js
+- **Styling**: [e.g., Tailwind CSS, Shadcn, or others]
+- **Hosting**: Vercel
+- **Chart**: recharts
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Installation Instructions
+If you'd like to run the project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:Mafilala/wingman_challenge.git
+2. Navigate to the project directory
+   ```bash
+   cd wingman_challenge
+3. install dependencies
+   ``` bash
+   bun install
+4. Start the development server
+   ``` bash
+   bun run dev
